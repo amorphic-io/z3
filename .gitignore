@@ -111,3 +111,11 @@ dbg/**
 CppProperties.json
 genaisrc/genblogpost.genai.mts
 *.mts
+
+# Bazel
+bazel-*
+MODULE.bazel.lock
+
+# Misc
+/.direnv
+/.envrc
